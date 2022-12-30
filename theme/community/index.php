@@ -94,7 +94,7 @@ $(function() {
 	    echo latest('theme/basic', 'notice', 7, 20);
 	    ?>
 	</div>
-	
+		
 	<div class="lt_li lt_li_left">
 	    <?php
 	    // 이 함수가 바로 최신글을 추출하는 역할을 합니다.
